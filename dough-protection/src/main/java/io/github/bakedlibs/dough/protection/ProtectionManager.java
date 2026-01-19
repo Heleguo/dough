@@ -36,6 +36,7 @@ import io.github.bakedlibs.dough.protection.modules.RedProtectProtectionModule;
 import io.github.bakedlibs.dough.protection.modules.ShopChestProtectionModule;
 import io.github.bakedlibs.dough.protection.modules.TownyProtectionModule;
 import io.github.bakedlibs.dough.protection.modules.WorldGuardProtectionModule;
+import io.github.bakedlibs.dough.protection.modules.DominionProtectionModule;
 
 /**
  * This Class provides a nifty API for plugins to query popular protection plugins.
