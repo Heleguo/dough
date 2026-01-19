@@ -98,6 +98,7 @@ public final class ProtectionManager {
         registerModule(pm, "ShopChest", shopChest -> new ShopChestProtectionModule(shopChest));
         registerModule(pm, "HuskClaims", huskClaims -> new HuskClaimsProtectionModule(huskClaims));
         registerModule(pm, "Bolt", bolt -> new BoltProtectionModule(bolt));
+        registerModule(pm, "Dominion", dominion -> new DominionProtectionModule(dominion));
 
         /*
          * The following Plugins work by utilising one of the above listed
